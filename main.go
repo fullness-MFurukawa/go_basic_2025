@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"exercise/chapter06"
+)
 
 func main() {
-	fmt.Println("Hello World!")
+	chapter06.Exe6_1()
 }
