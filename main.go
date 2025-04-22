@@ -1,9 +1,9 @@
 package main
 
 import (
-	"exercise/chapter06"
+	"exercise/chapter08"
 )
 
 func main() {
-	chapter06.Exe6_1()
+	chapter08.Exe8_2()
 }
